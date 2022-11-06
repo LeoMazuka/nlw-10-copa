@@ -1,7 +1,7 @@
 <h1 align="center"> INFO COPA </h1>
 
 <p align="center">
-Projeto de um site para armazenar informações da copa, como tabela de jogos e grupos.
+Projeto de um site para armazenar a tabela de jogos da copa.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Projeto de um site para armazenar informações da copa, como tabela de jogos e 
 <br>
 
 <p align="center">
-  <img alt="Calendário da copa" src=".github/preview.jpg" width="100%">
+  <img src="./github/preview.jpg" alt="Calendário da copa" width="100%"; >
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-É um calendário da Copa que mostra os jogos e grupos da Copa de 2022.
+É um calendário da Copa que mostra os jogos da Copa de 2022.
 
 ## 🔖 Layout
 
