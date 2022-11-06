@@ -18,7 +18,7 @@ Projeto de um site para armazenar informações da copa, como tabela de jogos e 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/capa.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Leonardo Mazuqueli com apoio do projeto da Rocketseat 🎉 [Participe da comunidade deles!](https://discord.gg/rocketseat)
+Feito por Leonardo Soares Mazuqueli com apoio do projeto da Rocketseat 🎉 [Participe da comunidade deles!](https://discord.gg/rocketseat)
