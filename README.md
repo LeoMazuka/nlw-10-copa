@@ -18,7 +18,7 @@ Projeto de um site para armazenar informações da copa, como tabela de jogos e 
 <br>
 
 <p align="center">
-  <img alt="Calendario da copa" src="./github/capa.jpg" width="100%">
+  <img alt="Calendário da copa" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
